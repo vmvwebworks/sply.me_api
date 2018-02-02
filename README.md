@@ -1,24 +1,17 @@
-# README
+# Sply.me as API backend
+![Gif image from BluBlu Studios](https://cdn.dribbble.com/users/1138853/screenshots/4138799/1.gif)
+Image authors [here](https://dribbble.com/shots/4138799-Circular-Economy-1)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+----------
+### Ruby version `2.4.2`
+### Rails version`5.1.4`
+----------
+#### Tests `Rspec`
+#### Database `MySQL`
+#### Users Login `Devise`
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+----------
+*This app is used as a REST API for Sply.me backend
+ Be careful of store your own keys on  the **.env**
+ at the project rootfile this file is related to not be
+ uplodaded on **.gitignore** file*
