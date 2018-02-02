@@ -1,5 +1,6 @@
 # Sply.me as API backend
 ![Gif image from BluBlu Studios](https://cdn.dribbble.com/users/1138853/screenshots/4138799/1.gif)
+
 Image authors [here](https://dribbble.com/shots/4138799-Circular-Economy-1)
 
 ----------
